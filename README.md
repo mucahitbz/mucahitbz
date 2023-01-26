@@ -6,7 +6,7 @@
 
 <!-- Social badges section -->
  <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="mucahit.boyraz7878@gmail.com">
     <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </p>
     
