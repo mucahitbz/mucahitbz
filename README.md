@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/mucahitboyraz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/mucahitboyraz">
+<a width="30px" style="padding-right:10px;"
+   href="https://www.kaggle.com/mucahitboyraz">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
   </a>&nbsp;&nbsp;
 
