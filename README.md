@@ -1,4 +1,5 @@
 ## Hi Everyone! Welcome to Mucahit Boyraz's Github Profile ✨
+ I am civil engineering student who is interested in data analysis, machine learning and deep learning.
 
 <!--
 **mucahitbz/mucahitbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
