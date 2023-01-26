@@ -4,13 +4,6 @@
       <a href="mucahit.boyraz7878@gmail.com">
          <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a> 
 
-<!-- Social badges section -->
- <p align="center">
-  <a href="mucahit.boyraz7878@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- </p>
-    
-
                             
 
 <!--
