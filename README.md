@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />   
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+<a href="https://github.com/mucahitbz"><img src="contributions.svg"></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=mucahitbz.mucahitbz" />
