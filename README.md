@@ -4,8 +4,14 @@
       <a href="mucahit.boyraz7878@gmail.com">
          <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a> 
 
+<!-- Social badges section -->
+ <p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </p>
+    
 
-### Social Media:
+                            
 
 <!--
 **mucahitbz/mucahitbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
