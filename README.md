@@ -1,7 +1,10 @@
 ## Hi Everyone! Welcome to Mucahit Boyraz's Github Profile ✨
  I am civil engineering student who is interested in data analysis, machine learning and deep learning.
 
-### 💬 Connect with me                            
+### 💬 Connect with me
+<a href="https://www.linkedin.com/in/mucahitboyraz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 <!--
 **mucahitbz/mucahitbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
