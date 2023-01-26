@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/mucahitboyraz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/mucahitboyraz">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+  </a>&nbsp;&nbsp;
 
 <!--
 **mucahitbz/mucahitbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
