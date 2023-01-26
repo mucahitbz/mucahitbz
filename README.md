@@ -1,8 +1,9 @@
 ## Hi Everyone! Welcome to Mucahit Boyraz's Github Profile ✨
  I am civil engineering student who is interested in data analysis, machine learning and deep learning.
+<p align="left">
+      <a href="mucahit.boyraz7878@gmail.com">
+         <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a> 
 
-### 📫 How to reach me:
- mucahit.boyraz7878@gmail.com
 
 ### Social Media:
 
