@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />                                                 
 <img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitbz &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitbz&theme=radical)
