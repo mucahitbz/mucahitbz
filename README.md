@@ -1,5 +1,4 @@
 ## Hi Everyone! Welcome to Mucahit Boyraz's Github Profile ✨
- I am civil engineering student who is interested in data analysis, machine learning and deep learning.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitbz&theme=radical)
 
