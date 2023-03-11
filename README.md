@@ -1,6 +1,8 @@
 ## Hi Everyone! Welcome to Mucahit Boyraz's Github Profile ✨
  I am civil engineering student who is interested in data analysis, machine learning and deep learning.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitbz&theme=radical)
+
 ### 💬 Connect with me
 <a href="https://www.linkedin.com/in/mucahitboyraz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -40,4 +42,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />                                                 
 <img align="left" alt="Github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mucahitbz&theme=radical)
+
